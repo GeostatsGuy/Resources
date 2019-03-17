@@ -121,7 +121,7 @@ One of my vairous roles is as principal investigator at the Texas Center for Geo
 2. [Value of quantification in PPT](https://git.io/fNg0g)
 3. [Stationarity in PPT](https://git.io/fNg0l)
 4. [Uncertainty in PPT](https://git.io/fNg0R)
-5. [Suggested books in PPT(https://git.io/fNg0u)
+5. [Suggested books in PPT](https://git.io/fNg0u)
 6. [Simple kriging in Excel](https://git.io/fNgBK) and in [R](https://git.io/fNg0N)
 7. [Uncertainty Away from Data in Excel](https://git.io/fNO2I)
 8. [Convolution methods in Python](https://git.io/fNgR3)
