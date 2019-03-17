@@ -32,7 +32,28 @@ For more about Michael check out these links:
 
 7. [Center for Petroleum and Geosystems Engineering Webinar - Big Data Analytics for Petroleum Engineering: Hype or Panacea?](https://meeting.austin.utexas.edu/pdx1pgyuj53k/?proto=true)
 
-## Resources on Statistics and Probability:
+## GeostatsPy Python Package Workflows
+
+0. [GeostatsPy: Reimplementation of GSLIB in Python](https://github.com/GeostatsGuy/GeostatsPy) 
+1. [Confidence Intervals and Hypothesis Testing with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_Confidence_Hypothesis.ipynb)
+2. [Monte Carlo Simulation with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_Monte_Carlo_simulation.ipynb)
+3. [Bootstrap with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_bootstrap.ipynb)
+4. [Data Distributions](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_datadistributions.ipynb)
+5. [Declustering with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_declustering.ipynb)
+6. [Indicator Kriging with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_indicator_kriging.ipynb)
+7. [Kriging with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_kriging.ipynb)
+8. [Multivariate Analysis with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_multivariate.ipynb)
+9. [Overfitting Models with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_overfit.ipynb)
+10. [Plotting Spatial Data with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_plottingdata.ipynb)
+11. [Directional Spatial Continuity with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_spatial_continuity_directions.ipynb)
+12. [Spatial Updating with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_spatial_updating.ipynb)
+13. [Data Transformation with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_transformations.ipynb)
+14. [Spatial Trend Modeling with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_trends.ipynb)
+15. [Multivariate Feature Ranking with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_variable_ranking.ipynb)
+16. [Variogram Calculation with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_variogram_calculation.ipynb)
+17. [Variogram Modeling with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_variogram_modeling.ipynb)
+
+## Resources on Statistics and Probability
 
 1. [Probability Theory – my undergraduate lecture](https://git.io/fNg4r) 
 2. [Statistics – undergraduate lecture](https://git.io/fNg42)
