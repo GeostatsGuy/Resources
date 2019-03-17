@@ -1,12 +1,26 @@
 # Resources
 
+Here's a list of my online resources to help people learn about spatial data analytics, geostatistics and machine learning.
+
+## The Author:
+
+### Michael Pyrcz, Associate Professor, University of Texas at Austin 
+*Novel Data Analytics, Geostatistics and Machine Learning Subsurface Solutions*
+
+With over 17 years of experience in subsurface consulting, research and development, Michael has returned to academia driven by his passion for teaching and enthusiasm for enhancing engineers' and geoscientists' impact in subsurface resource development. 
+
+For more about Michael check out these links:
+
+#### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
+
+
 ## Recorded Lectures 
 
 0. [Introduction - Howdy I'm Michael](https://www.youtube.com/watch?v=V13QZz2exmk)
 
 1. [YouTube Channel GeostatsGuy Lectures](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig/) 
 
-2. [Introduction to Data Analytics, Geostatistics adn Machine Learning Undergraduate Lectures (Lec00-Lec21)](https://www.youtube.com/watch?v=OEvELm66NNo&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ) 
+2. [Introduction to Data Analytics, Geostatistics and Machine Learning Undergraduate Lectures (Lec00-Lec21)](https://www.youtube.com/watch?v=OEvELm66NNo&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ) 
 
 3. [Subsurface Modeling (Lec00-)](https://www.youtube.com/watch?v=0g1g3gtHYSE&list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4) 
 
@@ -26,7 +40,7 @@
 
 ## Parametric Distributions
 
-1. [How to make them in Excel]( (https://git.io/fNgBs) 
+1. [How to make them in Excel](https://git.io/fNgBs) 
 2. [Poisson distribution in Excel](https://git.io/fNgBC) 
 3. [Gaussian transform in Excel](https://git.io/fNgB4) and [Python](https://git.io/fNgRZ) 
 4. [Log normal distribution in Excel](https://git.io/fNgBB)
@@ -62,6 +76,57 @@
 1. [Dimensional reduction in Python](https://git.io/fNgRK) and in [R](https://git.io/fNg0D)
 2. [Decision tree in Python](https://git.io/f4do0) and in [R](https://git.io/fNg09)
 3. [Support vector machine in Python](https://git.io/fNgRP) 
+
+## Geostatistics
+
+0. [GeostatsPy: Reimplementation of GSLIB in Python](https://github.com/GeostatsGuy/GeostatsPy) 
+1. [Introduction to Data Analytics, Geostatistics and Machine Learning Undergraduate Lectures (Lec00-Lec21)](https://www.youtube.com/watch?v=OEvELm66NNo&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ) 
+2. [What Does a Geoscientist Need to Know About Geostatistics? And Why It Would Be Helpful?](http://www.beg.utexas.edu/node/4323) and [PPT](https://git.io/fNBqz)
+3. [Exercises, hands-on and demonstrations PPT Inventory](https://git.io/fNBqr)
+4. [Functions that reimplement or call GSLIB exes in Python](https://git.io/fNgR7)
+5. [Demo of the functions in Python](https://git.io/fNgRb) 
+6. [Declustering in Python](https://git.io/fNgRs) and with [PyGSLIB Package](https://git.io/fxSHl) 
+7. [Declustering and Debiasing in Excel](https://git.io/fxA3O)
+8. [Variogram calculation in Excel](https://git.io/fNgBb) and in [R](https://git.io/fNg0h)
+9. [Full variogram Calculation and Modeling in Excel](https://git.io/fxhxr) and in [PyGSLIB Package](https://git.io/fxSHl)   
+
+## Supplemental Slides
+
+1. [Facies criteria in PPT](https://git.io/fNg0s)
+2. [Value of quantification in PPT](https://git.io/fNg0g)
+3. [Stationarity in PPT](https://git.io/fNg0l)
+4. [Uncertainty in PPT](https://git.io/fNg0R)
+5. [Suggested books in PPT(https://git.io/fNg0u)
+6. [Simple kriging in Excel](https://git.io/fNgBK) and in [R](https://git.io/fNg0N)
+7. [Uncertainty Away from Data in Excel](https://git.io/fNO2I)
+8. [Convolution methods in Python](https://git.io/fNgR3)
+9. [LU Simulation in Pyton](https://git.io/fNgRG)
+10. [Sequential Gaussian simulation in Excel](https://git.io/fNgB1) and in [R](https://git.io/fNg0x)
+11. [Truncated Gaussian simulation in Excel](https://git.io/fNgBN)
+12. [Spatial uncertainty in Excel](https://git.io/fNO2I)
+13. [Volume-variance relations in Excel](https://git.io/fNgRe)
+14. [Working with realizations in R](https://git.io/fNITF) 
+15. [Lecture on value in industry in PPT](https://git.io/fNg0O)
+
+I hope these resources are useful.
+
+#### Want to Work Together?
+
+I hope that this is helpful to those that want to learn more about subsurface modeling, data analytics and machine learning. Students and working professionals are welcome to participate.
+
+* Want to invite me to visit your company for training, mentoring, project review, workflow design and consulting, I'd be happy to drop by and work with you! 
+
+* Interested in partnering, supporting my graduate student research or my Subsurface Data Analytics and Machine Learning consortium (co-PIs including Profs. Foster, Torres-Verdin and van Oort)? My research combines data analytics, stochastic modeling and machine learning theory with practice to develop novel methods and workflows to add value. We are solving challenging subsurface problems!
+
+* I can be reached at mpyrcz@austin.utexas.edu.
+
+I'm always happy to discuss,
+
+*Michael*
+
+Michael Pyrcz, Ph.D., P.Eng. Associate Professor The Hildebrand Department of Petroleum and Geosystems Engineering, Bureau of Economic Geology, The Jackson School of Geosciences, The University of Texas at Austin
+
+#### More Resources Available at: [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
 
 
 
