@@ -1,10 +1,10 @@
+<p>
+    <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
+</p>
+
 # Resources
 
 An inventory of my online resources that I have made to help people learn about spatial data analytics, geostatistics and machine learning. I have produced these resources to support my students and I thought they would be useful to my students after completion of the class (an evergreen resource), to other students and working professionals interested in this topic.
-
-<p>
-    <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png?raw=true" width="220" height="240" />
-</p>
 
 ## The Author:
 
