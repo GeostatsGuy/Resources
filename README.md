@@ -17,16 +17,35 @@ One of my vairous roles is as principal investigator at the Texas Center for Geo
 
 #### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
 
+## About Michael 
+
+0. My story of how I got started in engineering and ended up as a professor at The University of Texas at Austin [My Story](http://www.michaelpyrcz.com/home.html)
+
+1. More about my experiences and my musings [My Musings](http://www.michaelpyrcz.com/about.html)
+
+2. Nothing is possible without awesome graduate students [My Students](http://www.michaelpyrcz.com/students.html)
+
+3. I've written a bit, here's the books [My Books](http://www.michaelpyrcz.com/publications---books.html)
+
+4. My peer-reviewed publications [My Papers](http://www.michaelpyrcz.com/publications---peer-reviewed.html) and [My Other Publications](http://www.michaelpyrcz.com/other-publications.html)
+
+5. I do quite a bit on social media [My Social Media Efforts](http://www.michaelpyrcz.com/social-media.html)
+
+6. I post a lot of code and course material to support anyone that wants to learn [My GitHub](https://github.com/GeostatsGuy)
+
+7. I also blog a little, check it out here [My Blog](https://daytum.org/blog/) and [My Other Blog](http://www.michaelpyrcz.com/blog.html)
+
+8. I partnered with Prof. John Foster (UT Austin) and Bazean, a technology-enabled energy investment firm, start the energy-focussed data sceince education company, [daytum](https://daytum.org/).  We are currently offering short courses in Energy Data Science.
 
 ## Recorded Lectures 
 
-0. [Introduction - Howdy I'm Michael](https://www.youtube.com/watch?v=V13QZz2exmk)
+0. [Introduction - Howdy, I'm Michael](https://www.youtube.com/watch?v=V13QZz2exmk)
 
 1. [YouTube Channel GeostatsGuy Lectures](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig/) 
 
 2. [Introduction to Data Analytics, Geostatistics and Machine Learning Undergraduate Lectures (Lec00-Lec21)](https://www.youtube.com/watch?v=OEvELm66NNo&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ) 
 
-3. [Subsurface Modeling (Lec00-)](https://www.youtube.com/watch?v=0g1g3gtHYSE&list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4) 
+3. [Subsurface Modeling Graduate Course (Lec00 - Lec22)](https://www.youtube.com/playlist?list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4)
 
 4. [Geostatistical Workflows for Unconventional Reservoirs)](https://www.youtube.com/watch?v=jc4gbc2eiJE)
 
@@ -36,7 +55,6 @@ One of my vairous roles is as principal investigator at the Texas Center for Geo
 
 7. [Center for Petroleum and Geosystems Engineering Webinar - Big Data Analytics for Petroleum Engineering: Hype or Panacea?](https://meeting.austin.utexas.edu/pdx1pgyuj53k/?proto=true)
 
-8. [Subsurface Modeling Graduate Course (Lec00 - Lec22)](https://www.youtube.com/playlist?list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4)
 
 ## GeostatsPy Python Package Workflows
 
