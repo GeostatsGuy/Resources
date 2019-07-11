@@ -36,7 +36,7 @@ One of my vairous roles is as principal investigator at the Texas Center for Geo
 
 7. [Center for Petroleum and Geosystems Engineering Webinar - Big Data Analytics for Petroleum Engineering: Hype or Panacea?](https://meeting.austin.utexas.edu/pdx1pgyuj53k/?proto=true)
 
-8. [Subsurface Modeling Graduate Course (Lec00 - Lec22)](https://www.youtube.com/watch?v=0g1g3gtHYSE&)list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4)
+8. [Subsurface Modeling Graduate Course (Lec00 - Lec22)](https://www.youtube.com/playlist?list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4)
 
 ## GeostatsPy Python Package Workflows
 
