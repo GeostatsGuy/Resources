@@ -36,6 +36,8 @@ One of my vairous roles is as principal investigator at the Texas Center for Geo
 
 7. [Center for Petroleum and Geosystems Engineering Webinar - Big Data Analytics for Petroleum Engineering: Hype or Panacea?](https://meeting.austin.utexas.edu/pdx1pgyuj53k/?proto=true)
 
+8. [Subsurface Modeling Graduate Course (Lec00 - Lec22)](https://www.youtube.com/watch?v=0g1g3gtHYSE&)list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4)
+
 ## GeostatsPy Python Package Workflows
 
 0. [GeostatsPy: Reimplementation of GSLIB in Python](https://github.com/GeostatsGuy/GeostatsPy) 
@@ -56,6 +58,7 @@ One of my vairous roles is as principal investigator at the Texas Center for Geo
 15. [Multivariate Feature Ranking with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_variable_ranking.ipynb)
 16. [Variogram Calculation with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_variogram_calculation.ipynb)
 17. [Variogram Modeling with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_variogram_modeling.ipynb)
+18. [Spatial Bootstrap](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Spatial_Bootstrap.ipynb)
 
 ## Resources on Statistics and Probability
 
@@ -88,6 +91,8 @@ One of my vairous roles is as principal investigator at the Texas Center for Geo
 2. [Spatial Bootstrap in Python](https://git.io/fNgRw)
 3. [Linear regression in Excel](https://git.io/fNgBd) and in [R](https://git.io/fNg0A)
 4. [Loss functions in Excel](https://git.io/fNgBx)
+5. [Multivariate Analysis](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Multivariate.ipynb)
+
 
 ## Heterogeneity
 
@@ -101,6 +106,17 @@ One of my vairous roles is as principal investigator at the Texas Center for Geo
 1. [Dimensional reduction in Python](https://git.io/fNgRK) and in [R](https://git.io/fNg0D)
 2. [Decision tree in Python](https://git.io/f4do0) and in [R](https://git.io/fNg09)
 3. [Support vector machine in Python](https://git.io/fNgRP) 
+4. [Feature Engineering](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Feature_Ranking.ipynb)
+5. [Linear Regression](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_LinearRegression.ipynb)
+6. [Naive Bayes Regression and Classification](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_NaiveBayes.ipynb)
+7. [Principal Components Analysis](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_PCA.ipynb)
+8. [Ridge Regression](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_RidgeRegression.ipynb)
+9. [Support Vector Machines](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_SupportVectorMachines.ipynb)
+10. [Time Series Analysis](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_TimeSeries.ipynb)
+11. [Clustering](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_clustering.ipynb)
+12. [k Nearest Neighbour](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_kNearestNeighbour.ipynb)
+13. [Neural Networks](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_NeuralNet.ipynb)
+14. [scikit learn Overview](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_scikit_learn.ipynb)
 
 ## Geostatistics
 
