@@ -35,7 +35,7 @@ One of my vairous roles is as principal investigator at the Texas Center for Geo
 
 7. I also blog a little, check it out here [My Blog](https://daytum.org/blog/) and [My Other Blog](http://www.michaelpyrcz.com/blog.html)
 
-8. I partnered with Prof. John Foster (UT Austin) and Bazean, a technology-enabled energy investment firm, start the energy-focussed data sceince education company, [daytum](https://daytum.org/).  We are currently offering short courses in Energy Data Science.
+8. I partnered with Prof. John Foster (UT Austin) and Bazean, a technology-enabled energy investment firm, to start the energy-focussed data sceince education company, [daytum](https://daytum.org/).  We are currently offering short courses in Energy Data Science.
 
 ## Recorded Lectures 
 
