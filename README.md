@@ -47,14 +47,17 @@ One of my vairous roles is as principal investigator at the Texas Center for Geo
 
 3. [Subsurface Modeling Graduate Course (Lec00 - Lec22)](https://www.youtube.com/playlist?list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4)
 
-4. [Geostatistical Workflows for Unconventional Reservoirs)](https://www.youtube.com/watch?v=jc4gbc2eiJE)
+4. [Subsurface Machine Learning Graduate Course (Lec00 - Lec18)](https://www.youtube.com/watch?v=5kBS5ThMHcU&list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf) 
 
-5. [Geostatistical Workflows for Unconventional Reservoirs at BEG](http://www.beg.utexas.edu/node/4179)
+5. [Geostatistical Workflows for Unconventional Reservoirs)](https://www.youtube.com/watch?v=jc4gbc2eiJE)
 
-6. [What Does a Geoscientist Need to Know About Geostatistics? And Why It Would Be Helpful?](http://www.beg.utexas.edu/node/4323)
+6. [Geostatistical Workflows for Unconventional Reservoirs at BEG](http://www.beg.utexas.edu/node/4179)
 
-7. [Center for Petroleum and Geosystems Engineering Webinar - Big Data Analytics for Petroleum Engineering: Hype or Panacea?](https://meeting.austin.utexas.edu/pdx1pgyuj53k/?proto=true)
+7. [What Does a Geoscientist Need to Know About Geostatistics? And Why It Would Be Helpful?](http://www.beg.utexas.edu/node/4323)
 
+8. [Center for Petroleum and Geosystems Engineering Webinar - Big Data Analytics for Petroleum Engineering: Hype or Panacea?](https://meeting.austin.utexas.edu/pdx1pgyuj53k/?proto=true)
+
+8. [Michael's Unsolicited Advice and Ideas for a Successful and Happy Career in Our Industry](https://www.youtube.com/watch?v=IMsOA10XXsQ&list=PLG19vXLQHvSDyiLrXpqPV8bUMRvOCHiUZ&index=2e)
 
 ## GeostatsPy Python Package Workflows
 
@@ -121,20 +124,27 @@ One of my vairous roles is as principal investigator at the Texas Center for Geo
 
 ## Machine Learning
 
-1. [Dimensional reduction in Python](https://git.io/fNgRK) and in [R](https://git.io/fNg0D)
-2. [Decision tree in Python](https://git.io/f4do0) and in [R](https://git.io/fNg09)
-3. [Support vector machine in Python](https://git.io/fNgRP) 
-4. [Feature Engineering](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Feature_Ranking.ipynb)
-5. [Linear Regression](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_LinearRegression.ipynb)
-6. [Naive Bayes Regression and Classification](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_NaiveBayes.ipynb)
-7. [Principal Components Analysis](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_PCA.ipynb)
-8. [Ridge Regression](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_RidgeRegression.ipynb)
-9. [Support Vector Machines](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_SupportVectorMachines.ipynb)
-10. [Time Series Analysis](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_TimeSeries.ipynb)
-11. [Clustering](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_clustering.ipynb)
-12. [k Nearest Neighbour](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_kNearestNeighbour.ipynb)
-13. [Neural Networks](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_NeuralNet.ipynb)
-14. [scikit learn Overview](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_scikit_learn.ipynb)
+1. [Feature Ranking in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Feature_Ranking.ipynb)
+2. [Feature Transformations in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Feature_Transformations.ipynb)
+3. [Feature Uncertainty in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_bootstrap.ipynb)
+4. [Dimensional reduction in Python](https://git.io/fNgRK) and in [R](https://git.io/fNg0D)
+5. [Clustering in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Clustering.ipynb)
+6. [Principal Components Analysis in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_PCA.ipynb)
+7. [Multidimensional Scaling and Random Projection in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Multidimensional_Scaling.ipynb)
+8. [Linear Regression in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_LinearRegression.ipynb)
+9. [Ridge Regression in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_RidgeRegression.ipynb)
+10. LASSO Regression in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Lasso.ipynb)
+11. [Isotonic Regression in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_IsotonicRegression.ipynb)
+12. [Bayesian Regression in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_BayesianRegression.ipynb)
+13. [Polynomial Regression in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_PolygonalRegression.ipynb)
+14. [Naive Bayes Regression and Classification in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_NaiveBayes.ipynb)
+15. [Time Series Analysis](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_TimeSeries.ipynb)
+16. [k Nearest Neighbour](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_kNearestNeighbour.ipynb)
+17. [Decision tree in Python](https://git.io/f4do0)[Python Advanced](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_DecisionTree.ipynb) and in [R](https://git.io/fNg09)
+18. [Gradient Boosting in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Gradient_Boosting_Simple.ipynb) and [Advanced Gradient Boosting in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Gradient_Boosting.ipynb)
+19. [Support Vector Machines](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_SupportVectorMachines.ipynb)
+20. [Neural Networks](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_NeuralNet.ipynb)
+21. [scikit learn Overview](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_scikit_learn.ipynb)
 
 ## Geostatistics
 
