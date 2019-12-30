@@ -133,7 +133,7 @@ One of my vairous roles is as principal investigator at the Texas Center for Geo
 7. [Multidimensional Scaling and Random Projection in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Multidimensional_Scaling.ipynb)
 8. [Linear Regression in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_LinearRegression.ipynb)
 9. [Ridge Regression in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_RidgeRegression.ipynb)
-10. LASSO Regression in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Lasso.ipynb)
+10. [LASSO Regression in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Lasso.ipynb)
 11. [Isotonic Regression in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_IsotonicRegression.ipynb)
 12. [Bayesian Regression in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_BayesianRegression.ipynb)
 13. [Polynomial Regression in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_PolygonalRegression.ipynb)
