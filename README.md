@@ -63,9 +63,17 @@ Want to learn more about my story, my publications and other contributions to op
 
 9. [Michael's Unsolicited Advice and Ideas for a Successful and Happy Career in Our Industry](https://www.youtube.com/watch?v=IMsOA10XXsQ&list=PLG19vXLQHvSDyiLrXpqPV8bUMRvOCHiUZ&index=2e)
 
-10. My interview on [AAPG](https://www.aapg.org/)'s [Digging Deeper podcast](https://www.aapg.org/podcast/episode/articleid/56437) with hthe awesome host Vern Stefanic.
+10. My interview on [AAPG](https://www.aapg.org/)'s [Digging Deeper podcast](https://www.aapg.org/podcast/episode/articleid/56437) with the awesome host Vern Stefanic.
 
 ## GeostatsPy Python Package Workflows
+
+I wrote a Python Package called GeostatsPy for spatial data analytics and geostatistics. Here's a set of demonstration workflows in Python Jupyter Notebook for many of the fundamental workflow steps from data preparation, statistical inference to spatial prediction with uncertainty.  They go along with my recorded lectures from my courses on my YouTube channels:
+
+* [**Introduction to Data Analytics and Geostatistics**](https://www.youtube.com/playlist?list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ) 
+* [**Spatial Data Analytics**](https://www.youtube.com/playlist?list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4)
+* [**Subusrface Machine Learning**](https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf)
+
+Here's the workflows:
 
 0. [GeostatsPy: Reimplementation of GSLIB in Python](https://github.com/GeostatsGuy/GeostatsPy) 
 1. [Confidence Intervals and Hypothesis Testing with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_Confidence_Hypothesis.ipynb)
@@ -86,6 +94,17 @@ Want to learn more about my story, my publications and other contributions to op
 16. [Variogram Calculation with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_variogram_calculation.ipynb)
 17. [Variogram Modeling with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_variogram_modeling.ipynb)
 18. [Spatial Bootstrap](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Spatial_Bootstrap.ipynb)
+
+## Interactive Python Worklfows to Support Education
+
+I think interactive workflows are excellent tools to support education.  For data analytics and machine learning, turning a dial and watching a system or machine change is a great method to gain intuition and experience.  I started to put together interactive workflows with [ipywidgets](https://ipywidgets.readthedocs.io/en/latest/) and [matplotlib](https://matplotlib.org/).  Check them out here:
+
+1. [General Bootstrap](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Bootstrap.ipynb)
+2. [Bootstrap Colored Balls in a Cowboy Hat](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Bootstrap_Simple.ipynb)
+3. [DYI Central Limit Theorem](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Central_Limit_Theorem.ipynb)
+4. [Confidence Interval by Bootstrap and Analytical](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Confidence_Interval.ipynb)
+5. [Sivia's Bayesian Coin](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Sivia_Coin_Toss.ipynb)
+6. [Spurious Correlation](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Spurious_Correlations.ipynb)
 
 ## Resources on Statistics and Probability
 
