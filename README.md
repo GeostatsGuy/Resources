@@ -51,6 +51,8 @@ Want to learn more about my story, my publications and other contributions to op
 
 ## Recorded Lectures 
 
+I record all my university lectures and post them on YouTube. You are welcome to join my classes!
+
 0. [Introduction - Howdy, I'm Michael](https://www.youtube.com/watch?v=V13QZz2exmk)
 
 1. [YouTube Channel GeostatsGuy Lectures](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig/) 
