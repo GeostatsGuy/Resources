@@ -71,7 +71,7 @@ I wrote a Python Package called GeostatsPy for spatial data analytics and geosta
 
 * [**Introduction to Data Analytics and Geostatistics**](https://www.youtube.com/playlist?list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ) 
 * [**Spatial Data Analytics**](https://www.youtube.com/playlist?list=PLG19vXLQHvSDUmEOmBoaxGbFAbvaLdfx4)
-* [**Subusrface Machine Learning**](https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf)
+* [**Subsurface Machine Learning**](https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf)
 
 Here's the workflows:
 
@@ -139,7 +139,6 @@ I think interactive workflows are excellent tools to support education.  For dat
 4. [Loss functions in Excel](https://git.io/fNgBx)
 5. [Multivariate Analysis](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Multivariate.ipynb)
 
-
 ## Heterogeneity
 
 1. [Making an example well in Excel](https://git.io/fNgBS)
@@ -148,6 +147,12 @@ I think interactive workflows are excellent tools to support education.  For dat
 4. [Ripley Cross K in R](https://git.io/fNSMx)
 
 ## Machine Learning
+
+I have an new **Subsurface Machine Learning Course** that builds from fundamental probability to artificial neural networks.  The recorded lectures are available here:
+
+* [**Subsurface Machine Learning**](https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf)
+
+You are welcome to follow along! The demonstration workflows from the lectures are here: 
 
 1. [Feature Ranking in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Feature_Ranking.ipynb)
 2. [Feature Transformations in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Feature_Transformations.ipynb)
@@ -169,7 +174,8 @@ I think interactive workflows are excellent tools to support education.  For dat
 18. [Gradient Boosting in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Gradient_Boosting_Simple.ipynb) and [Advanced Gradient Boosting in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Gradient_Boosting.ipynb)
 19. [Support Vector Machines](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_SupportVectorMachines.ipynb)
 20. [Neural Networks](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_NeuralNet.ipynb)
-21. [scikit learn Overview](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_scikit_learn.ipynb)
+21. [Course Conclusion](https://www.youtube.com/watch?v=7a2oLE9Bjxc&list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf&index=39&t=0s)
+22. [scikit learn Overview](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_scikit_learn.ipynb)
 
 ## Geostatistics
 
