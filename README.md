@@ -131,6 +131,8 @@ I think interactive workflows are excellent tools to support education.  For dat
 
 ## Demos of Bayesian Statistics
 
+**Bayesian Apporaches** are powerful.  They integrate prior belief with new observations, provide explicit uncertainty models and more intuitive credible intervals for uncertainty in model parameters.  Here's some accessible demonstrations to get you started thinking like a Bayesian statician.   
+
 1. [The Coin Problem from Sivia (1996) in Excel](https://git.io/fNg47) 
 2. [Bayesian updating with Gaussian in Excel](https://git.io/fNg4F)
 3. [Probability given a positive test in Excel](https://git.io/fNg4N) 
@@ -147,6 +149,8 @@ I think interactive workflows are excellent tools to support education.  For dat
 5. [Multivariate Analysis](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Multivariate.ipynb)
 
 ## Heterogeneity
+
+Our subsurface systems are heterogeneous and heterogeneity matters in many subsurface prediction problems.  Here are some accessible demonstrations to help you get started quantifying heterogeneity.
 
 1. [Making an example well in Excel](https://git.io/fNgBS)
 2. [Lorenz coefficient in Excel](https://git.io/fNgBD)
