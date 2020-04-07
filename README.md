@@ -61,7 +61,9 @@ Want to learn more about my story, my publications and other contributions to op
 
 8. [Center for Petroleum and Geosystems Engineering Webinar - Big Data Analytics for Petroleum Engineering: Hype or Panacea?](https://meeting.austin.utexas.edu/pdx1pgyuj53k/?proto=true)
 
-8. [Michael's Unsolicited Advice and Ideas for a Successful and Happy Career in Our Industry](https://www.youtube.com/watch?v=IMsOA10XXsQ&list=PLG19vXLQHvSDyiLrXpqPV8bUMRvOCHiUZ&index=2e)
+9. [Michael's Unsolicited Advice and Ideas for a Successful and Happy Career in Our Industry](https://www.youtube.com/watch?v=IMsOA10XXsQ&list=PLG19vXLQHvSDyiLrXpqPV8bUMRvOCHiUZ&index=2e)
+
+10. My interview on [AAPG](https://www.aapg.org/)'s [Digging Deeper podcast](https://www.aapg.org/podcast/episode/articleid/56437) with hthe awesome host Vern Stefanic.
 
 ## GeostatsPy Python Package Workflows
 
