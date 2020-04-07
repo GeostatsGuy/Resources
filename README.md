@@ -4,6 +4,14 @@
 
 # Resources
 
+Howdy Folks, I'm Michael Pyrcz, an Associate Professor at The University of Texas. I teach and conduct research on data analytics, geostatistics and machine learning. I'm appointed in the Hildbrand Department of Petroleum and Geosystem Engineering, the Jackson School of Geosciences and the Bureau of Economic Geology. I'm also a principal investigator in the College of Natural Sciences Energy Analytics Freshmen Research Initiative.    
+
+I feel that the role of professor is a role of service to our community, so I post all my lectures and supporting content online for anyone in the world to learn.  I hope this supports:
+
+* **my students** with evergreen content long after they finish my courses
+* **working professionals** facing the digital transformation and interested to learn new skills
+* **potential students** by breaking down barriers and making our university a welcoming place for all interested to learn
+
 An inventory of my online resources that I have made to help people learn about spatial data analytics, geostatistics and machine learning. I have produced these resources to support my students and I thought they would be useful to my students after completion of the class (an evergreen resource), to other students and working professionals interested in this topic.
 
 ## The Author:
