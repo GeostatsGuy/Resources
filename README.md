@@ -114,12 +114,16 @@ I think interactive workflows are excellent tools to support education.  For dat
 
 ## Parametric Distributions
 
+**Parametric Distributions** are fundamental to statistics and data analytics inferential and predictive workflows. Sometimes they are required by theory and often they result from nature. Many students struggle with them so I made simple demonstrations in Microsoft Excel that cover how to make them from scratch and how to work with them:  
+
 1. [How to make them in Excel](https://git.io/fNgBs) 
 2. [Poisson distribution in Excel](https://git.io/fNgBC) 
 3. [Gaussian transform in Excel](https://git.io/fNgB4) and [Python](https://git.io/fNgRZ) 
 4. [Log normal distribution in Excel](https://git.io/fNgBB)
 
 ## Hypothesis Testing 
+
+**Hypothesis Testing** is all about recognizing the *difference that makes a difference*.  These tests protect us from the belief in small numbers and are bias to see patterns in random phenomenon.  
 
 1. [Difference in means in Excel](https://git.io/fNgBU) and in [Python](https://git.io/fxsOx) 
 2. [Difference in variances in Excel](https://git.io/fNgBT) and in [Python](https://git.io/fxsOx)  
@@ -130,6 +134,9 @@ I think interactive workflows are excellent tools to support education.  For dat
 1. [The Coin Problem from Sivia (1996) in Excel](https://git.io/fNg47) 
 2. [Bayesian updating with Gaussian in Excel](https://git.io/fNg4F)
 3. [Probability given a positive test in Excel](https://git.io/fNg4N) 
+4. [Sivia's Bayesian Coin in Interactive Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Sivia_Coin_Toss.ipynb)
+5. [Bayesian Regression in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_BayesianRegression.ipynb)
+6. [Naive Bayes Regression and Classification in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_NaiveBayes.ipynb)
  
 ## Other
 
@@ -157,7 +164,7 @@ You are welcome to follow along! The demonstration workflows from the lectures a
 1. [Feature Ranking in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Feature_Ranking.ipynb)
 2. [Feature Transformations in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Feature_Transformations.ipynb)
 3. [Feature Uncertainty in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_bootstrap.ipynb)
-4. [Dimensional reduction in Python](https://git.io/fNgRK) and in [R](https://git.io/fNg0D)
+4. [Dimensional Reduction in Python](https://git.io/fNgRK) and in [R](https://git.io/fNg0D)
 5. [Clustering in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Clustering.ipynb)
 6. [Principal Components Analysis in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_PCA.ipynb)
 7. [Multidimensional Scaling and Random Projection in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Multidimensional_Scaling.ipynb)
