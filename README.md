@@ -54,7 +54,7 @@ Want to learn more about my story, my publications and other contributions to op
 11. I partnered with Prof. John Foster (UT Austin) and Bazean, a technology-enabled energy investment firm, to start the energy-focussed **data science education company**, [daytum](https://daytum.org/).  We are currently offering short courses in Energy Data Science.
 
 ## <div align="center">Michael Pyrcz, Associate Professor, University of Texas at Austin</dev> 
-*Online Resources on Spatial Data Analytics, Geostatistics and Machine Learning*
+<div align="center">*Online Resources on Spatial Data Analytics, Geostatistics and Machine Learning*</dev>
 
 ### Recorded Lectures 
 
