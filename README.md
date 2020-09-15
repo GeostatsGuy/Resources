@@ -14,11 +14,8 @@ I feel that the role of professor is a role of service to our community, so I po
 
 Here's an inventory of my online resources that I have made to help people learn about spatial data analytics, geostatistics and machine learning. I have produced these resources to support my students and I thought they would be useful to my students after completion of the class (an evergreen resource), to other students and working professionals interested in this topic. 
 
-<p style="text-align: center;">Centered text</p>
+<h1><center>*I hear from students, working professionals and potential students that benefit from these products and that gets me stoked!*</center></h1>
 
-* *The cool thin
-
-<p style="text-align: center;">Justified text</p>
 
 ## The Author:
 
