@@ -54,7 +54,7 @@ Want to learn more about my story, my publications and other contributions to op
 11. I partnered with Prof. John Foster (UT Austin) and Bazean, a technology-enabled energy investment firm, to start the energy-focussed **data science education company**, [daytum](https://daytum.org/).  We are currently offering short courses in Energy Data Science.
 
 ## <div align="center">Michael Pyrcz, Associate Professor, University of Texas at Austin</dev> 
-<div align="center">Online Resources on Spatial Data Analytics, Geostatistics and Machine Learning</dev>
+*Online Resources on Spatial Data Analytics, Geostatistics and Machine Learning*
 
 ### Recorded Lectures 
 
@@ -70,17 +70,21 @@ I record all my university lectures and post them on YouTube. You are welcome to
 
 4. [Subsurface Machine Learning Graduate Course (Lec00 - Lec18)](https://www.youtube.com/watch?v=5kBS5ThMHcU&list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf) 
 
-5. [Geostatistical Workflows for Unconventional Reservoirs)](https://www.youtube.com/watch?v=jc4gbc2eiJE)
+5. [Open Source Spatial Data Analytics in Python with GeostatsPy](https://www.youtube.com/watch?v=HDZEQ6KF3A0&list=PLG19vXLQHvSDyiLrXpqPV8bUMRvOCHiUZ&index=1)
 
-6. [Geostatistical Workflows for Unconventional Reservoirs at BEG](http://www.beg.utexas.edu/node/4179)
+6. [Introduction to Spatial Continuity](https://www.youtube.com/watch?v=j2DQboBxnf4&list=PLG19vXLQHvSDyiLrXpqPV8bUMRvOCHiUZ&index=4)
 
-7. [What Does a Geoscientist Need to Know About Geostatistics? And Why It Would Be Helpful?](http://www.beg.utexas.edu/node/4323)
+7. [Geostatistical Workflows for Unconventional Reservoirs)](https://www.youtube.com/watch?v=jc4gbc2eiJE)
 
-8. [Center for Petroleum and Geosystems Engineering Webinar - Big Data Analytics for Petroleum Engineering: Hype or Panacea?](https://meeting.austin.utexas.edu/pdx1pgyuj53k/?proto=true)
+8. [Geostatistical Workflows for Unconventional Reservoirs at BEG](http://www.beg.utexas.edu/node/4179)
 
-9. [Michael's Unsolicited Advice and Ideas for a Successful and Happy Career in Our Industry](https://www.youtube.com/watch?v=IMsOA10XXsQ&list=PLG19vXLQHvSDyiLrXpqPV8bUMRvOCHiUZ&index=2e)
+9. [What Does a Geoscientist Need to Know About Geostatistics? And Why It Would Be Helpful?](http://www.beg.utexas.edu/node/4323)
 
-10. My interview on [AAPG](https://www.aapg.org/)'s [Digging Deeper podcast](https://www.aapg.org/podcast/episode/articleid/56437) with the awesome host Vern Stefanic.
+10. [Center for Petroleum and Geosystems Engineering Webinar - Big Data Analytics for Petroleum Engineering: Hype or Panacea?](https://meeting.austin.utexas.edu/pdx1pgyuj53k/?proto=true)
+
+11. [Michael's Unsolicited Advice and Ideas for a Successful and Happy Career in Our Industry](https://www.youtube.com/watch?v=IMsOA10XXsQ&list=PLG19vXLQHvSDyiLrXpqPV8bUMRvOCHiUZ&index=2e)
+
+12. My interview on [AAPG](https://www.aapg.org/)'s [Digging Deeper podcast](https://www.aapg.org/podcast/episode/articleid/56437) with the awesome host Vern Stefanic.
 
 ### GeostatsPy Python Package Workflows
 
@@ -122,6 +126,19 @@ I think interactive workflows are excellent tools to support education.  For dat
 4. [Confidence Interval by Bootstrap and Analytical](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Confidence_Interval.ipynb)
 5. [Sivia's Bayesian Coin](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Sivia_Coin_Toss.ipynb)
 6. [Spurious Correlation](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Spurious_Correlations.ipynb)
+7. [Correlation Coefficient](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Correlation_Coefficient.ipynb)
+8. [Neural Networks](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_NeuralNetwork_SingleLayer.ipynb)
+9. [LASSO Regression](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_LASSO_Regression.ipynb)
+10. [Principal Components Analysis](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_PCA.ipynb)
+11. [Ridge Regression](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Ridge_Regresion.ipynb)
+12. [Simple Kriging](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Simple_Kriging.ipynb)
+13. [Stochastic Simulation](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Simulation.ipynb)
+14. [Uncertainty with Spatial Aggregation](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Spatial_Aggregate_Uncertainty.ipynb)
+15. [Kriging String Effect](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_String_Effect.ipynb)
+16. [Uncertainty Model Checking](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Uncertainty_Checking.ipynb)
+17. [Variogram Calculation](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Variogram_Calculation.ipynb)
+18. [Variogram Modeling](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Variogram_Modeling.ipynb)
+19. [Spectral Clustering](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Spectral_Clustering.ipynb)
 
 ### Resources on Statistics and Probability
 
