@@ -16,10 +16,7 @@ Here's an inventory of my online resources that I have made to help people learn
 
 <div align="center"><em>I hear from students, working professionals and potential students everyday that benefit from these products!</em></div>
 
-
-## The Author:
-
-### <div align="center">Michael Pyrcz, Associate Professor, University of Texas at Austin</dev> 
+## <div align="center">Michael Pyrcz, Associate Professor, University of Texas at Austin</dev> 
 *Novel Data Analytics, Geostatistics and Machine Learning Subsurface Solutions*
 
 With over 17 years of experience in subsurface consulting, research and development, Michael has returned to academia driven by his passion for teaching and enthusiasm for enhancing engineers' and geoscientists' impact in subsurface resource development. 
@@ -28,7 +25,7 @@ One of my vairous roles is as principal investigator at the Texas Center for Geo
 
 #### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
 
-## About Michael 
+### About Michael 
 
 Want to learn more about my story, my publications and other contributions to open source, check this out:
 
@@ -52,7 +49,7 @@ Want to learn more about my story, my publications and other contributions to op
 
 8. I partnered with Prof. John Foster (UT Austin) and Bazean, a technology-enabled energy investment firm, to start the energy-focussed **data science education company**, [daytum](https://daytum.org/).  We are currently offering short courses in Energy Data Science.
 
-## Recorded Lectures 
+### Recorded Lectures 
 
 I record all my university lectures and post them on YouTube. You are welcome to join my classes!
 
@@ -78,7 +75,7 @@ I record all my university lectures and post them on YouTube. You are welcome to
 
 10. My interview on [AAPG](https://www.aapg.org/)'s [Digging Deeper podcast](https://www.aapg.org/podcast/episode/articleid/56437) with the awesome host Vern Stefanic.
 
-## GeostatsPy Python Package Workflows
+### GeostatsPy Python Package Workflows
 
 I wrote a Python Package called GeostatsPy for spatial data analytics and geostatistics. Here's a set of demonstration workflows in Python Jupyter Notebook for many of the fundamental workflow steps from data preparation, statistical inference to spatial prediction with uncertainty.  They go along with my recorded lectures from my courses on my YouTube channels:
 
@@ -108,7 +105,7 @@ Here's the workflows:
 17. [Variogram Modeling with GeostatsPy](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/GeostatsPy_variogram_modeling.ipynb)
 18. [Spatial Bootstrap](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Spatial_Bootstrap.ipynb)
 
-## Interactive Python Worklfows to Support Education
+### Interactive Python Worklfows to Support Education
 
 I think interactive workflows are excellent tools to support education.  For data analytics and machine learning, turning a dial and watching a system or machine change is a great method to gain intuition and experience.  I started to put together interactive workflows with [ipywidgets](https://ipywidgets.readthedocs.io/en/latest/) and [matplotlib](https://matplotlib.org/).  Check them out here:
 
@@ -119,13 +116,13 @@ I think interactive workflows are excellent tools to support education.  For dat
 5. [Sivia's Bayesian Coin](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Sivia_Coin_Toss.ipynb)
 6. [Spurious Correlation](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Spurious_Correlations.ipynb)
 
-## Resources on Statistics and Probability
+### Resources on Statistics and Probability
 
 1. [Probability Theory – my undergraduate lecture](https://git.io/fNg4r) 
 2. [Statistics – undergraduate lecture](https://git.io/fNg42)
 3. [Marginal, Joint & Conditional Probability – slides](https://git.io/fNg4K)
 
-## Parametric Distributions
+### Parametric Distributions
 
 **Parametric Distributions** are fundamental to statistics and data analytics inferential and predictive workflows. Sometimes they are required by theory and often they result from nature. Many students struggle with them so I made simple demonstrations in Microsoft Excel that cover how to make them from scratch and how to work with them:  
 
@@ -134,7 +131,7 @@ I think interactive workflows are excellent tools to support education.  For dat
 3. [Gaussian transform in Excel](https://git.io/fNgB4) and [Python](https://git.io/fNgRZ) 
 4. [Log normal distribution in Excel](https://git.io/fNgBB)
 
-## Hypothesis Testing 
+### Hypothesis Testing 
 
 **Hypothesis Testing** is all about recognizing the *difference that makes a difference*.  These tests protect us from the belief in small numbers and are bias to see patterns in random phenomenon.  
 
@@ -142,7 +139,7 @@ I think interactive workflows are excellent tools to support education.  For dat
 2. [Difference in variances in Excel](https://git.io/fNgBT) and in [Python](https://git.io/fxsOx)  
 3. [Difference in distributions in Excel](https://git.io/fNgBO)
 
-## Demos of Bayesian Statistics
+### Demos of Bayesian Statistics
 
 **Bayesian Apporaches** are powerful.  They integrate prior belief with new observations, provide explicit uncertainty models and more intuitive credible intervals for uncertainty in model parameters.  Here's some accessible demonstrations to get you started thinking like a Bayesian statician.   
 
@@ -153,7 +150,7 @@ I think interactive workflows are excellent tools to support education.  For dat
 5. [Bayesian Regression in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_BayesianRegression.ipynb)
 6. [Naive Bayes Regression and Classification in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_NaiveBayes.ipynb)
  
-## Other
+### Other
 
 1. [Bootstrap in Excel](https://git.io/fNgB2), in [Python](https://git.io/fNgRL) and in [R](https://git.io/fNg0P)
 2. [Spatial Bootstrap in Python](https://git.io/fNgRw)
@@ -161,7 +158,7 @@ I think interactive workflows are excellent tools to support education.  For dat
 4. [Loss functions in Excel](https://git.io/fNgBx)
 5. [Multivariate Analysis](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Multivariate.ipynb)
 
-## Heterogeneity
+### Heterogeneity
 
 Our subsurface systems are heterogeneous and heterogeneity matters in many subsurface prediction problems.  Here are some accessible demonstrations to help you get started quantifying heterogeneity.
 
@@ -170,7 +167,7 @@ Our subsurface systems are heterogeneous and heterogeneity matters in many subsu
 3. [Hurst coefficient in R](https://git.io/fNg0d)
 4. [Ripley Cross K in R](https://git.io/fNSMx)
 
-## Machine Learning
+### Machine Learning
 
 I have an new **Subsurface Machine Learning Course** that builds from fundamental probability to artificial neural networks.  The recorded lectures are available here:
 
@@ -201,7 +198,7 @@ You are welcome to follow along! The demonstration workflows from the lectures a
 21. [Course Conclusion](https://www.youtube.com/watch?v=7a2oLE9Bjxc&list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf&index=39&t=0s)
 22. [scikit learn Overview](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_scikit_learn.ipynb)
 
-## Geostatistics
+### Geostatistics
 
 0. [GeostatsPy: Reimplementation of GSLIB in Python](https://github.com/GeostatsGuy/GeostatsPy) 
 1. [Introduction to Data Analytics, Geostatistics and Machine Learning Undergraduate Lectures (Lec00-Lec21)](https://www.youtube.com/watch?v=OEvELm66NNo&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ) 
@@ -214,7 +211,7 @@ You are welcome to follow along! The demonstration workflows from the lectures a
 8. [Variogram calculation in Excel](https://git.io/fNgBb) and in [R](https://git.io/fNg0h)
 9. [Full variogram Calculation and Modeling in Excel](https://git.io/fxhxr) and in [PyGSLIB Package](https://git.io/fxSHl)   
 
-## Supplemental Slides
+### Supplemental Slides
 
 1. [Facies criteria in PPT](https://git.io/fNg0s)
 2. [Value of quantification in PPT](https://git.io/fNg0g)
