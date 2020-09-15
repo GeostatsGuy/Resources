@@ -14,12 +14,12 @@ I feel that the role of professor is a role of service to our community, so I po
 
 Here's an inventory of my online resources that I have made to help people learn about spatial data analytics, geostatistics and machine learning. I have produced these resources to support my students and I thought they would be useful to my students after completion of the class (an evergreen resource), to other students and working professionals interested in this topic. 
 
-<div align="center"><em>I hear from students, working professionals and potential students that benefit from these products and that gets me stoked!</em></div>
+<div align="center"><em>I hear from students, working professionals and potential students everyday that benefit from these products!</em></div>
 
 
 ## The Author:
 
-### Michael Pyrcz, Associate Professor, University of Texas at Austin 
+### <div align="center">Michael Pyrcz, Associate Professor, University of Texas at Austin</dev> 
 *Novel Data Analytics, Geostatistics and Machine Learning Subsurface Solutions*
 
 With over 17 years of experience in subsurface consulting, research and development, Michael has returned to academia driven by his passion for teaching and enthusiasm for enhancing engineers' and geoscientists' impact in subsurface resource development. 
