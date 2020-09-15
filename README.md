@@ -31,31 +31,35 @@ Want to learn more about my story, my publications and other contributions to op
 
 0. My story of how I got started in engineering and ended up as a professor at The University of Texas at Austin [My Story](http://www.michaelpyrcz.com/home.html)
 
-1. More about my experiences and my **musings** [My Musings](http://www.michaelpyrcz.com/about.html)
+1. My research, approach to research and views on building an inclusive and diverse team [My Research](http://www.michaelpyrcz.com/my-research.html)
 
-2. Nothing is possible without awesome **graduate students** [My Students](http://www.michaelpyrcz.com/students.html)
+2. Nothing is possible without awesome **graduate students** [My Students](http://www.michaelpyrcz.com/my-students.html)
 
-3. I've written a bit, here's the **books** [My Books](http://www.michaelpyrcz.com/publications---books.html)
+3. I've written a bit, here's the **books** [My Books](http://www.michaelpyrcz.com/books.html)
 
-4. My peer-reviewed **publications** [My Papers](http://www.michaelpyrcz.com/publications---peer-reviewed.html) and [My Other Publications](http://www.michaelpyrcz.com/other-publications.html)
+4. My peer-reviewed **publications** [My Papers](http://www.michaelpyrcz.com/peer-reviewed.html) 
 
-5. I wrote an open source **Python package** for spatial data analytics and geostatistics. Much of it is a translation of GSLIB (Deutsch and Journel, 1998) from the original Fortran to Python for 2D geostatistical methods.  I did this to support my students in my Data Analytics and Geostatistics cources. Check it out and consider contributing and become a coauthor at GeostatsPy on [PyPi Repository](https://pypi.org/project/geostatspy/) and [GitHub](https://github.com/GeostatsGuy/GeostatsPy).
+5. My **other contributions** [My Other Contributions](http://www.michaelpyrcz.com/other-publications.html)
 
-5. I do quite a bit on **social media** [My Social Media Efforts](http://www.michaelpyrcz.com/social-media.html). Check out my Twitter feed for resources, ideas and possitivity most days, where I'm the **GeostatsGuy** [Twitter](https://twitter.com/GeostatsGuy).
+6. I wrote an open source **Python package** for spatial data analytics and geostatistics. Much of it is a translation of GSLIB (Deutsch and Journel, 1998) from the original Fortran to Python for 2D geostatistical methods.  I did this to support my students in my Spatial Data Analytics and Geostatistics courses. Check it out and consider contributing and become a coauthor at GeostatsPy on [PyPi Repository](https://pypi.org/project/geostatspy/) and [GitHub](https://github.com/GeostatsGuy/GeostatsPy).
 
-6. I post a lot of **code**, **demonstration workflows** and **course material** to support anyone that wants to learn [My GitHub](https://github.com/GeostatsGuy)
+7. I do quite a bit on **social media**, here's why I do it, [My Social Media Efforts](https://medium.com/5-questions-with/why-its-important-that-professors-use-social-media-5-questions-with-associate-professor-michael-a921225287fb). 
 
-7. I also blog a little, check it out here [My Blog](https://daytum.org/blog/) and [My Other Blog](http://www.michaelpyrcz.com/blog.html)
+8. Check out my TEDx talk on 'A Professor's Secret Weapon' [TED Talk](https://www.eventbrite.com/e/tedxutaustin-2020-break-through-virtual-conference-registration-93386701137)
 
-8. I partnered with Prof. John Foster (UT Austin) and Bazean, a technology-enabled energy investment firm, to start the energy-focussed **data science education company**, [daytum](https://daytum.org/).  We are currently offering short courses in Energy Data Science.
+9. Check out my Twitter feed for resources, ideas and possitivity most days, where I'm the **GeostatsGuy** [Twitter](https://twitter.com/GeostatsGuy).
+
+10. I post a lot of **code**, **demonstration workflows** and **course material** to support anyone that wants to learn [My GitHub](https://github.com/GeostatsGuy)
+
+11. I partnered with Prof. John Foster (UT Austin) and Bazean, a technology-enabled energy investment firm, to start the energy-focussed **data science education company**, [daytum](https://daytum.org/).  We are currently offering short courses in Energy Data Science.
 
 ### Recorded Lectures 
 
 I record all my university lectures and post them on YouTube. You are welcome to join my classes!
 
-0. [Introduction - Howdy, I'm Michael](https://www.youtube.com/watch?v=V13QZz2exmk)
+0. [Introduction - Howdy, I'm Michael](https://youtu.be/6-BB1eqRp4o)
 
-1. [YouTube Channel GeostatsGuy Lectures](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig/) 
+1. [YouTube Channel GeostatsGuy Lectures](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig?) 
 
 2. [Introduction to Data Analytics, Geostatistics and Machine Learning Undergraduate Lectures (Lec00-Lec21)](https://www.youtube.com/watch?v=OEvELm66NNo&list=PLG19vXLQHvSB-D4XKYieEku9GQMQyAzjJ) 
 
