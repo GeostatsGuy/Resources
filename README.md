@@ -199,7 +199,7 @@ I have an new **Subsurface Machine Learning Course** that builds from fundamenta
 
 You are welcome to follow along! The demonstration workflows from the lectures are here: 
 
-0. [Feature Imputation](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Feature_Ranking.ipynb)
+0. [Feature Imputation in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Feature_Ranking.ipynb)
 1. [Feature Ranking in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Feature_Ranking.ipynb)
 2. [Feature Transformations in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Feature_Transformations.ipynb)
 3. [Feature Uncertainty in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_bootstrap.ipynb)
