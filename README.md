@@ -2,9 +2,9 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
 
-# Prof. Michael J. Pyrcz, [@GeostatsGuy](https://twitter.com/GeostatsGuy) Resources
+# Prof. Michael J. Pyrcz, [@GeostatsGuy](https://twitter.com/GeostatsGuy), Resources
 
-Howdy Folks, I'm Michael Pyrcz, an Associate Professor at The University of Texas. I teach and conduct research on data analytics, geostatistics and machine learning. I'm appointed in the Hildebrand Department of Petroleum and Geosystem Engineering, the Jackson School of Geosciences and the Bureau of Economic Geology. I'm also a principal investigator in the College of Natural Sciences Energy Analytics Freshmen Research Initiative and Inventors' Program and core a core faculty in the Machine Learning Laboratory in Computer Sciences.    
+Howdy Folks, I'm Michael Pyrcz, an Associate Professor at The University of Texas. I teach and conduct research on data analytics, geostatistics and machine learning. I'm appointed in the Hildebrand Department of Petroleum and Geosystem Engineering, the Jackson School of Geosciences and the Bureau of Economic Geology. I'm also a principal investigator in the College of Natural Sciences Energy Analytics Freshmen Research Initiative and Inventors' Program and a core faculty in the Machine Learning Laboratory in Computer Sciences, all at The University of Texas at Austin.    
 
 I feel that the role of professor is a role of service to our community, so I post all my lectures and supporting content online for anyone in the world to learn.  I hope this supports:
 
