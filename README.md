@@ -43,6 +43,8 @@ Want to learn more about my story, my publications and other contributions to op
 
 6. I wrote an open source **Python package** for spatial data analytics and geostatistics. Much of it is a translation of GSLIB (Deutsch and Journel, 1998) from the original Fortran to Python for 2D geostatistical methods.  I did this to support my students in my Spatial Data Analytics and Geostatistics courses. Check it out and consider contributing and become a coauthor at GeostatsPy on [PyPi Repository](https://pypi.org/project/geostatspy/) and [GitHub](https://github.com/GeostatsGuy/GeostatsPy).
 
+* **NOTE**, since GeostatsPy relies on the Numba package for code acceleration, and Numba is not updated to Python >= 3.9, please use Python < 3.9 with GeostatsPy.
+
 7. I do quite a bit on **social media**, here's why I do it, [My Social Media Efforts](https://medium.com/5-questions-with/why-its-important-that-professors-use-social-media-5-questions-with-associate-professor-michael-a921225287fb). 
 
 8. Check out my TEDx talk on 'A Professor's Secret Weapon' [TED Talk](https://www.eventbrite.com/e/tedxutaustin-2020-break-through-virtual-conference-registration-93386701137)
@@ -70,21 +72,27 @@ I record all my university lectures and post them on YouTube. You are welcome to
 
 4. [Subsurface Machine Learning Graduate Course (Lec00 - Lec18)](https://www.youtube.com/watch?v=5kBS5ThMHcU&list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf) 
 
-5. [Open Source Spatial Data Analytics in Python with GeostatsPy](https://www.youtube.com/watch?v=HDZEQ6KF3A0&list=PLG19vXLQHvSDyiLrXpqPV8bUMRvOCHiUZ&index=1)
+5. [Data Science Basics in Python (Chapter I - III)](https://www.youtube.com/playlist?list=PLG19vXLQHvSAufDFgZEFAYQEwMJXklnQV)
 
-6. [Introduction to Spatial Continuity](https://www.youtube.com/watch?v=j2DQboBxnf4&list=PLG19vXLQHvSDyiLrXpqPV8bUMRvOCHiUZ&index=4)
+6. [Open Source Spatial Data Analytics in Python with GeostatsPy](https://www.youtube.com/watch?v=HDZEQ6KF3A0&list=PLG19vXLQHvSDyiLrXpqPV8bUMRvOCHiUZ&index=1)
 
-7. [Geostatistical Workflows for Unconventional Reservoirs)](https://www.youtube.com/watch?v=jc4gbc2eiJE)
+7. [My TED Talk, A Professor’s Secret Weapon](https://www.youtube.com/watch?v=9QHJzhmjC44&list=PLG19vXLQHvSDyiLrXpqPV8bUMRvOCHiUZ&index=2&t=30s)
 
-8. [Geostatistical Workflows for Unconventional Reservoirs at BEG](http://www.beg.utexas.edu/node/4179)
+8. [Introduction to Spatial Continuity](https://www.youtube.com/watch?v=j2DQboBxnf4&list=PLG19vXLQHvSDyiLrXpqPV8bUMRvOCHiUZ&index=4)
 
-9. [What Does a Geoscientist Need to Know About Geostatistics? And Why It Would Be Helpful?](http://www.beg.utexas.edu/node/4323)
+9. [Tutorial: Open Source Spatial Data Analytics in Python with GeostatsPy](https://www.youtube.com/watch?v=HDZEQ6KF3A0&list=PLG19vXLQHvSDyiLrXpqPV8bUMRvOCHiUZ&index=1&t=432s)
 
-10. [Center for Petroleum and Geosystems Engineering Webinar - Big Data Analytics for Petroleum Engineering: Hype or Panacea?](https://meeting.austin.utexas.edu/pdx1pgyuj53k/?proto=true)
+10. [Geostatistical Workflows for Unconventional Reservoirs)](https://www.youtube.com/watch?v=jc4gbc2eiJE)
 
-11. [Michael's Unsolicited Advice and Ideas for a Successful and Happy Career in Our Industry](https://www.youtube.com/watch?v=IMsOA10XXsQ&list=PLG19vXLQHvSDyiLrXpqPV8bUMRvOCHiUZ&index=2e)
+11. [Geostatistical Workflows for Unconventional Reservoirs at BEG](http://www.beg.utexas.edu/node/4179)
 
-12. My interview on [AAPG](https://www.aapg.org/)'s [Digging Deeper podcast](https://www.aapg.org/podcast/episode/articleid/56437) with the awesome host Vern Stefanic.
+12. [What Does a Geoscientist Need to Know About Geostatistics? And Why It Would Be Helpful?](http://www.beg.utexas.edu/node/4323)
+
+13. [Center for Petroleum and Geosystems Engineering Webinar - Big Data Analytics for Petroleum Engineering: Hype or Panacea?](https://meeting.austin.utexas.edu/pdx1pgyuj53k/?proto=true)
+
+14. [Michael's Unsolicited Advice and Ideas for a Successful and Happy Career in Our Industry](https://www.youtube.com/watch?v=IMsOA10XXsQ&list=PLG19vXLQHvSDyiLrXpqPV8bUMRvOCHiUZ&index=2e)
+
+15. My interview on [AAPG](https://www.aapg.org/)'s [Digging Deeper podcast](https://www.aapg.org/podcast/episode/articleid/56437) with the awesome host Vern Stefanic.
 
 ### GeostatsPy Python Package Workflows
 
