@@ -179,6 +179,7 @@ I think interactive workflows are excellent tools to support education.  For dat
 2. [Poisson distribution in Excel](https://git.io/fNgBC) 
 3. [Gaussian transform in Excel](https://git.io/fNgB4) and [Python](https://git.io/fNgRZ) 
 4. [Log normal distribution in Excel](https://git.io/fNgBB)
+5. [Interactive parametric distributions in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_ParametricDistributions.ipynb)
 
 ### Hypothesis Testing 
 
@@ -187,6 +188,7 @@ I think interactive workflows are excellent tools to support education.  For dat
 1. [Difference in means in Excel](https://git.io/fNgBU) and in [Python](https://git.io/fxsOx) 
 2. [Difference in variances in Excel](https://git.io/fNgBT) and in [Python](https://git.io/fxsOx)  
 3. [Difference in distributions in Excel](https://git.io/fNgBO)
+4. [Interactive hypothesis testing in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Interactive_Hypothesis_Testing.ipynb) 
 
 ### Demos of Bayesian Statistics
 
@@ -215,6 +217,9 @@ Our subsurface systems are heterogeneous and heterogeneity matters in many subsu
 2. [Lorenz coefficient in Excel](https://git.io/fNgBD)
 3. [Hurst coefficient in R](https://git.io/fNg0d)
 4. [Ripley Cross K in R](https://git.io/fNSMx)
+5. [Ripley K-function in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Ripley_K_demo.ipynb)
+6. [Lozenz coefficient in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Lorenz_coefficient_demo.ipynb)
+7. [Lorenz coefficient functions in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/Lorenz_coefficient_function.ipynb)
 
 ### Machine Learning
 
@@ -243,10 +248,15 @@ You are welcome to follow along! The demonstration workflows from the lectures a
 16. [k Nearest Neighbour](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_kNearestNeighbour.ipynb)
 17. [Decision tree in Python](https://git.io/f4do0)[Python Advanced](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_DecisionTree.ipynb) and in [R](https://git.io/fNg09)
 18. [Gradient Boosting in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Gradient_Boosting_Simple.ipynb) and [Advanced Gradient Boosting in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Gradient_Boosting.ipynb)
-19. [Support Vector Machines](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_SupportVectorMachines.ipynb)
-20. [Neural Networks](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_NeuralNet.ipynb)
-21. [Course Conclusion](https://www.youtube.com/watch?v=7a2oLE9Bjxc&list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf&index=39&t=0s)
-22. [scikit learn Overview](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_scikit_learn.ipynb)
+19. [Support Vector Machines in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_SupportVectorMachines.ipynb)
+20. [Neural Networks in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_NeuralNet.ipynb)
+21. [Convolution Operators in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_Convolution_Operators.ipynb)
+22. [Convolutional Neural Networks in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_ConvolutionalNeuralNetworks.ipynb)
+23. [Convolutional Neural Networks Classifier in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_ConvolutionalNeuralNetworks_Classfier.ipynb)
+24. [Generative Adversarial Networks in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_GenerativeAdversarialNetwork.ipynb)
+25. [Conditional Generative Adversarial Network in Python](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_ConditionalGenerativeAdversarialNetwork.ipynb)
+26. [Course Conclusion](https://www.youtube.com/watch?v=7a2oLE9Bjxc&list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf&index=39&t=0s)
+27. [scikit learn Overview](https://github.com/GeostatsGuy/PythonNumericalDemos/blob/master/SubsurfaceDataAnalytics_scikit_learn.ipynb)
 
 ### Geostatistics
 
