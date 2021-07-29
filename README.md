@@ -19,11 +19,11 @@ Here's an inventory of my online resources that I have made to help people learn
 ## <div align="center">Michael Pyrcz, Associate Professor, University of Texas at Austin</dev> 
 *Novel Data Analytics, Geostatistics and Machine Learning Subsurface Solutions*
 
-With over 17 years of experience in subsurface consulting, research and development, Michael has returned to academia driven by his passion for teaching and enthusiasm for enhancing engineers' and geoscientists' impact in subsurface resource development. 
+With over 17 years of experience in spatial, subsurface data analytics consulting, research and development, and leadership, Michael has returned to academia driven by his passion for teaching and enthusiasm for enhancing engineers' and (geo)scientists' impact in spatial, subsurface resource development. 
 
-For more about Michael, my research group (15 PhDs), my consortium (DIRECT), my papers etc. check out these links:
+For more about Michael, my research group (15 PhDs), my consortium (DiReCT), my papers etc. check out these links:
 
-#### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
+#### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1) \ [DiReCT Consortium Website](https://direct.pge.utexas.edu/home) | [DiReCT consortium GitHub](https://github.com/GeostatsGuy/DIRECT)
 
 ### About Michael 
 
