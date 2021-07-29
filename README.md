@@ -21,9 +21,9 @@ Here's an inventory of my online resources that I have made to help people learn
 
 With over 17 years of experience in spatial, subsurface data analytics consulting, research and development, and leadership, Michael has returned to academia driven by his passion for teaching and enthusiasm for enhancing engineers' and (geo)scientists' impact in spatial, subsurface resource development. 
 
-For more about Michael, my research group (15 PhDs), my consortium (DiReCT), my papers etc. check out these links:
+For more about Michael, my research group (15 PhDs), my consortium (DiReCT), my publications, my background, my education startup etc. check out these links:
 
-#### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1) | [DiReCT Consortium Website](https://direct.pge.utexas.edu/home) | [DiReCT consortium GitHub](https://github.com/GeostatsGuy/DIRECT)
+#### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1) | [DiReCT Consortium Website](https://direct.pge.utexas.edu/home) | [DiReCT consortium GitHub](https://github.com/GeostatsGuy/DIRECT) | [daytum](https://www2.daytum.io/)
 
 ### About Michael 
 
