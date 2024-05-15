@@ -4,7 +4,23 @@
 
 # Prof. Michael J. Pyrcz, [@GeostatsGuy](https://twitter.com/GeostatsGuy), Resources
 
-Howdy Folks, I'm Michael Pyrcz, an Associate Professor at The University of Texas. I teach and conduct research on data analytics, geostatistics and machine learning. I'm appointed in the Hildebrand Department of Petroleum and Geosystem Engineering, the Jackson School of Geosciences and the Bureau of Economic Geology. I'm also a principal investigator in the College of Natural Sciences Energy Analytics Freshmen Research Initiative and Inventors' Program and a core faculty in the Machine Learning Laboratory in Computer Sciences, all at The University of Texas at Austin.    
+Howdy Folks, I'm Michael Pyrcz, a Professor at The University of Texas at Austin. I teach and conduct research on: 
+
+* data analytics
+* geostatistics
+* machine learning.
+
+I'm appointed in the:
+
+* Hildebrand Department of Petroleum and Geosystem Engineering, Cockrell School of Engineering
+* Department of Planetary and Earth Sciences, Jackson School of Geosciences
+* Bureau of Economic Geology
+
+I'm also a: 
+
+* principal investigator in the College of Natural Sciences Energy Analytics Freshmen Research Initiative and Inventors' Program, The University of Texas at Austin
+* core faculty in the Machine Learning Laboratory in Computer Sciences, all at The University of Texas at Austin.    
+* principal investigator (co-PI with Professor John T. Foster) of the DIRECT industrial consortium  
 
 I feel that the role of professor is a role of service, so I post all my lectures and supporting content online resulting in evergreen content that outlasts the semester and reaches beyond campus. I hope this content supports:
 
