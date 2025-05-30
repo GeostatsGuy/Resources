@@ -317,7 +317,7 @@ I hope these resources are useful.
 #### About the Author
 
 <figure style="text-align: center;">
-  <img src="https://github.com/GeostatsGuy/MachineLearningDemos_Book/tree/main/_static/intro/michael_pyrcz_officeshot_jacket.jpg" style="display: block; margin: 0 auto; width: 70%;">
+  <img src="michael_pyrcz_officeshot_jacket.jpg" style="display: block; margin: 0 auto; width: 70%;">
   <figcaption style="text-align: center;"> Professor Michael Pyrcz in his office on the 40 acres, campus of The University of Texas at Austin.
 </figcaption>
 </figure>
