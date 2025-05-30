@@ -63,7 +63,7 @@ Want to learn more about my story, my publications and other contributions to op
 
 7. My **other contributions** [My Other Contributions](http://www.michaelpyrcz.com/other-publications.html)
 
-8. I wrote an open source **Python package** for spatial data analytics and geostatistics. Much of it is a translation of GSLIB (Deutsch and Journel, 1998) from the original Fortran to Python for 2D geostatistical methods.  I did this to support my students in my Spatial Data Analytics and Geostatistics courses. Check it out and consider contributing and become a coauthor at GeostatsPy on [PyPi Repository](https://pypi.org/project/geostatspy/) and [GitHub](https://github.com/GeostatsGuy/GeostatsPy).
+8. I wrote an open source **Python package** for spatial data analytics and geostatistics. Much of it is a translation of GSLIB (Deutsch and Journel, 1998) from the original Fortran to Python for 2D geostatistical methods.  I did this to support my students in my Spatial Data Analytics and Geostatistics courses. Check it out and consider contributing and become a coauthor at GeostatsPy on [PyPI Repository](https://pypi.org/project/geostatspy/) and [GitHub](https://github.com/GeostatsGuy/GeostatsPy).
 
 * **NOTE**, since GeostatsPy relies on the Numba package for code acceleration, and Numba is not updated to Python >= 3.9, please use Python < 3.9 with GeostatsPy.
 
