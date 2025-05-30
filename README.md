@@ -12,15 +12,15 @@ Howdy Folks, I'm Michael Pyrcz, a Professor at The University of Texas at Austin
 
 I'm appointed in the:
 
-* Hildebrand Department of Petroleum and Geosystem Engineering, Cockrell School of Engineering
-* Department of Planetary and Earth Sciences, Jackson School of Geosciences
-* Bureau of Economic Geology
+* Hildebrand Department of Petroleum and Geosystem Engineering, Cockrell School of Engineering, The University of Texas at Austin
+* Department of Planetary and Earth Sciences, Jackson School of Geosciences, The University of Texas at Austin
+* Bureau of Economic Geology, Jackson School of Geosciences, The University of Texas at Austin
 
 I'm also a: 
 
 * principal investigator in the College of Natural Sciences Energy Analytics Freshmen Research Initiative and Inventors' Program, The University of Texas at Austin
-* core faculty in the Machine Learning Laboratory in Computer Sciences, all at The University of Texas at Austin.    
-* principal investigator (co-PI with Professor John T. Foster) of the DIRECT industrial consortium  
+* core faculty in the Machine Learning Laboratory in Computer Sciences, all at The University of Texas at Austin    
+* principal investigator (co-PI with Professor John T. Foster) of the DIRECT industrial consortium, , The University of Texas at Austin  
 
 I feel that the role of professor is a role of service, so I post all my lectures and supporting content online resulting in evergreen content that outlasts the semester and reaches beyond campus. I hope this content supports:
 
@@ -32,14 +32,14 @@ Here's an inventory of my online resources that I have made to help people learn
 
 <div align="center"><em>I hear from students, working professionals and potential students everyday that benefit from these products!</em></div>
 
-## <div align="center">Michael Pyrcz, Associate Professor, University of Texas at Austin</dev> 
+## <div align="center">Michael Pyrcz, Professor, The University of Texas at Austin</dev> 
 *Novel Data Analytics, Geostatistics and Machine Learning Subsurface Solutions*
 
 With over 17 years of experience in spatial, subsurface data analytics consulting, research and development, and leadership, Michael has returned to academia driven by his passion for teaching and enthusiasm for enhancing engineers' and (geo)scientists' impact in spatial, subsurface resource development. 
 
 For more about Michael, my research group (15 PhDs), my consortium (DiReCT), my publications, my background, my education startup etc. check out these links:
 
-#### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1) | [DiReCT Website](https://direct.pge.utexas.edu/home) | [DiReCT GitHub](https://github.com/GeostatsGuy/DIRECT) | [daytum](https://www2.daytum.io/)
+[Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Geostatistics Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [Applied Geostats in Python e-book](https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html) | [Applied Machine Learning in Python e-book](https://geostatsguy.github.io/MachineLearningDemos_Book/) | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
 
 ### About Michael 
 
@@ -53,11 +53,17 @@ Want to learn more about my story, my publications and other contributions to op
 
 3. I've written a bit, here's the **books** [My Books](http://www.michaelpyrcz.com/books.html)
 
-4. My peer-reviewed **publications** [My Papers](http://www.michaelpyrcz.com/peer-reviewed.html) 
+4. Here's the 2 NEW, free online ebooks that I wrote during my sabatical. I continue to add and improve content so please continue to check back.
 
-5. My **other contributions** [My Other Contributions](http://www.michaelpyrcz.com/other-publications.html)
+* [Applied Geostats in Python e-book](https://geostatsguy.github.io/GeostatsPyDemos_Book/intro.html)
 
-6. I wrote an open source **Python package** for spatial data analytics and geostatistics. Much of it is a translation of GSLIB (Deutsch and Journel, 1998) from the original Fortran to Python for 2D geostatistical methods.  I did this to support my students in my Spatial Data Analytics and Geostatistics courses. Check it out and consider contributing and become a coauthor at GeostatsPy on [PyPi Repository](https://pypi.org/project/geostatspy/) and [GitHub](https://github.com/GeostatsGuy/GeostatsPy).
+* [Applied Machine Learning in Python e-book](https://geostatsguy.github.io/MachineLearningDemos_Book/)
+
+6. My peer-reviewed **publications** [My Papers](http://www.michaelpyrcz.com/peer-reviewed.html) 
+
+7. My **other contributions** [My Other Contributions](http://www.michaelpyrcz.com/other-publications.html)
+
+8. I wrote an open source **Python package** for spatial data analytics and geostatistics. Much of it is a translation of GSLIB (Deutsch and Journel, 1998) from the original Fortran to Python for 2D geostatistical methods.  I did this to support my students in my Spatial Data Analytics and Geostatistics courses. Check it out and consider contributing and become a coauthor at GeostatsPy on [PyPi Repository](https://pypi.org/project/geostatspy/) and [GitHub](https://github.com/GeostatsGuy/GeostatsPy).
 
 * **NOTE**, since GeostatsPy relies on the Numba package for code acceleration, and Numba is not updated to Python >= 3.9, please use Python < 3.9 with GeostatsPy.
 
